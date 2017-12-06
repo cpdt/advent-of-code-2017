@@ -1,0 +1,5 @@
+[package]
+
+name = "advent_day6"
+version = "0.0.1"
+authors = [ "Tom Barham <copodt@gmail.com>" ]
